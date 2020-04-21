@@ -1,0 +1,19 @@
+h1 {
+    font-family:sans-serif;
+    color:violet;
+    text-decoration:underline;
+    text-decoration-color:white;
+    font-size-adjust:auto
+}
+body {
+    background-color: black;
+}
+
+p {
+    color:aliceblue;
+    font-family:serif;
+    text-decoration: none;
+    font-size-adjust: auto
+}
+a {text-decoration-color: white;
+    color:white}
